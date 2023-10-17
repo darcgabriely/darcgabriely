@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudante de Ciência da Computação apaixonado por Front-End! <br>🌟 Em constante busca de conhecimento e aprimoramento. <br>💡 Compartilhando linhas de código e projetos enquanto trilho meu caminho na jornada da tecnologia. <br> 💻 #FrontEndDev #Inovação #AprendizadoEterno
+👨‍💻 Estudante de Ciência da Computação apaixonada por Front-End! <br>🌟 Em constante busca de conhecimento e aprimoramento. <br>💡 Compartilhando linhas de código e projetos enquanto trilho meu caminho na jornada da tecnologia. <br> 💻 #FrontEndDev #Inovação #AprendizadoEterno
 
 
 ## 🌐 Socials:
