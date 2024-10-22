@@ -1,10 +1,9 @@
 # 💫 About Me:
 👩‍💻 Analista de Dados | Cientista de Dados em Formação
 📊 Apaixonada por transformar dados em insights valiosos.
-🔍 Especializada em análise de dados, visualização e modelagem preditiva.
 💻 Habilidades em Python, SQL, R e ferramentas de BI como Tableau e Power BI.
 📈 Sempre em busca de aprender novas técnicas e compartilhar conhecimento.
-🌍 Acredita no poder dos dados para tomar decisões informadas e impulsionar resultados.
+🌍 Conhecimento transforma vidas.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/darcgaby) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabydarc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielydarc/) 
