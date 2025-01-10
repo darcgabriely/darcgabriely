@@ -17,9 +17,4 @@
 ![API RESTful](https://img.shields.io/badge/API%20RESTful-%234B9B29.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darcgabriely&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darcgabriely&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darcgabriely&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
